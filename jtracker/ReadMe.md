@@ -24,3 +24,6 @@ python manage.py startapp jsite
 python manage.py runserver
 http://127.0.0.1:8000/welcome.html
 
+# How to Use Python Requests with REST APIs
+# https://www.nylas.com/blog/use-python-requests-module-rest-apis/
+pip install requests
