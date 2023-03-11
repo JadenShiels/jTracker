@@ -20,5 +20,6 @@ from site.views import welcome
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url('welcome.html', welcome)
+    url('welcome.html', welcome),
+    url('', welcome)
 ]
